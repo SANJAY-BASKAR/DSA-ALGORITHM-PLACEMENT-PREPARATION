@@ -1,0 +1,47 @@
+Data Structures and Algorithm
+-----------------------------
+Basic Concepts : LeetCode Problems Solved
+=========================================
+1. Array implementation
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+    LeetCode (75)
+    ------------
+    a. (1768)Merge Strings Alternatively
+    b. (1071)Greatest Common Divisor of Strings
+    c. (1431)Kids with the Greatest Number of Canvas
+    d. (605)Can Place Flowers
+    e. (345)Reverse vowels in a string
+    f. (151)Reverse words in a string
+    g. (238)Product of Array by itself
+    h. (334)Increasing Triplet Sequence
+    i. (443)String Compression
+
+    Additional Problems
+    -------------------
+
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+-----------------------------
+2. Two Pointers
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+    LeetCode (75)
+    ------------
+    a. (283)Moving Zeroes
+    b. (392)Is Subsequence
+    c. (11)Container with most water
+    d. (1679)Max Number of K sum Pairs
+
+    Additional Problems
+    ------------------
+
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+3. Sliding Window
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+    LeetCode (75)
+    ------------
+    a. (643)Maximum Average SubArray I
+    b. (1456)Maximum Number of vowels in Substring
+
+    Additional Problems
+    ------------------
+
+]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]

@@ -1,0 +1,26 @@
+Data Structures and Algorithm
+-----------------------------
+Basic Concepts :
+1. Array implementation
+-----------------------------
+Advanced Concepts :
+1. Singly Linked List implementation
+2. Double Linked List implementation
+3. Circular Linked List implementation
+4. Stack implementation
+    a. using array  b. using linked list
+5. Queue implementation
+    a. using array  b. using linked list
+6. Tree traversal algorithms
+7. Binary Search Tree
+8. AVL Tree
+9. Min and Max Heap
+10. Sorting algorithms
+    a. Merge Sort
+    b. Quick Sort
+    c. Selection Sort
+    d. Insertion Sort
+11. Searching algorithm
+12. Graph implementation
+
+---------------------------
